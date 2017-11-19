@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "110434389381",
+    "firebase_url": "https://promapp-186213.firebaseio.com",
+    "project_id": "promapp-186213",
+    "storage_bucket": "promapp-186213.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110434389381:android:bcc6750cbb2360f7",
+        "android_client_info": {
+          "package_name": "prom.jhsmile.com.promapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110434389381-n1ake3fd9kepgnbcqsa4mlmvkp292e8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "prom.jhsmile.com.promapp",
+            "certificate_hash": "96a27bc5b445cad9cb9e95e4e2c09143c17d6c7d"
+          }
+        },
+        {
+          "client_id": "110434389381-upe1449rcrfvvm95s29mkdops6gqdt0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmlnKJ-4aZQZR0TBQAYvxGW7MheiUDU5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110434389381-upe1449rcrfvvm95s29mkdops6gqdt0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
